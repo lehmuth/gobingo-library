@@ -1,3 +1,15 @@
+#### 0.0.5 (2020-06-12)
+
+##### New Features
+
+* **schema:**  Added schemas for player and game states ([2c51b60b](https://github.com/lehmuth/gobingo-library/commit/2c51b60b78d05f463390467a8a988c2220b9b3f4))
+
+##### Bug Fixes
+
+* **rooms:**
+  *  Added EntryRoomMetaData to index.ts ([60534a50](https://github.com/lehmuth/gobingo-library/commit/60534a50853a12e174b0014f775ca79cb2461306))
+  *  Added EntryRoomMetaData to index.ts ([ee27ded6](https://github.com/lehmuth/gobingo-library/commit/ee27ded6ee94702dca6a30204985800858203c2d))
+
 #### 0.0.4 (2020-06-12)
 
 ##### New Features
