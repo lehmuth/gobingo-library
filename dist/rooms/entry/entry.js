@@ -19,8 +19,8 @@ var __importStar = (this && this.__importStar) || function (mod) {
     return result;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.RoomDefs = __importStar(require("./rooms/room-definitions"));
-var player_1 = require("./rooms/schemas/player");
-Object.defineProperty(exports, "Player", { enumerable: true, get: function () { return player_1.Player; } });
-exports.Bingo = __importStar(require("./rooms/bingo/bingo"));
-exports.Entry = __importStar(require("./rooms/entry/entry"));
+var entry_metadata_1 = require("./metadata/entry-metadata");
+Object.defineProperty(exports, "MetaData", { enumerable: true, get: function () { return entry_metadata_1.MetaData; } });
+exports.MessageDefs = __importStar(require("./messages/entry-message-definitions"));
+var entry_state_1 = require("./schemas/entry-state");
+Object.defineProperty(exports, "State", { enumerable: true, get: function () { return entry_state_1.State; } });
