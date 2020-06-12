@@ -1,3 +1,9 @@
+#### 0.0.3 (2020-06-12)
+
+##### Bug Fixes
+
+*  fixed wrong types path ([c4182853](https://github.com/lehmuth/gobingo-library/commit/c41828539d7717f59b6efb6133a861ef93dcb8c7))
+
 #### 0.0.2 (2020-06-12)
 
 ##### Bug Fixes
