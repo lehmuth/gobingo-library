@@ -1,3 +1,9 @@
+#### 0.0.2 (2020-06-12)
+
+##### Bug Fixes
+
+*  fixed doublicate in changelog ([1a374346](https://github.com/lehmuth/gobingo-library/commit/1a374346da0e7fbec7827e3805e52e385594adae))
+
 #### 0.0.1 (2020-06-12)
 
 ##### Chores
