@@ -10,3 +10,5 @@ var state_2 = require("./rooms/entry/schemas/state");
 Object.defineProperty(exports, "EntryRoomState", { enumerable: true, get: function () { return state_2.EntryRoomState; } });
 var metadata_2 = require("./rooms/entry/metadata");
 Object.defineProperty(exports, "EntryRoomMetaData", { enumerable: true, get: function () { return metadata_2.EntryRoomMetaData; } });
+var rooms_1 = require("./rooms/rooms");
+Object.defineProperty(exports, "Rooms", { enumerable: true, get: function () { return rooms_1.Rooms; } });
