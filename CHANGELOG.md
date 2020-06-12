@@ -1,3 +1,9 @@
+#### 0.0.7 (2020-06-12)
+
+##### New Features
+
+* **rooms:**  added enum for room names ([4e146b21](https://github.com/lehmuth/gobingo-library/commit/4e146b21f3acff6ec3905f3d11a5fb4cb89e903a))
+
 #### 0.0.6 (2020-06-12)
 
 ##### Chores
