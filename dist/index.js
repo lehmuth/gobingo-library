@@ -19,8 +19,7 @@ var __importStar = (this && this.__importStar) || function (mod) {
     return result;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-var rooms_1 = require("./rooms/rooms");
-Object.defineProperty(exports, "Rooms", { enumerable: true, get: function () { return rooms_1.Rooms; } });
+exports.RoomDefs = __importStar(require("./rooms/room-definitions"));
 var player_1 = require("./rooms/schemas/player");
 Object.defineProperty(exports, "Player", { enumerable: true, get: function () { return player_1.Player; } });
 exports.BingoRoomLib = __importStar(require("./rooms/bingo/bingo-room"));
