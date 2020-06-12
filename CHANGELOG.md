@@ -1,3 +1,9 @@
+#### 0.0.4 (2020-06-12)
+
+##### New Features
+
+* **rooms:**  Added a metadata class for EntryRoom ([47830ee2](https://github.com/lehmuth/gobingo-library/commit/47830ee2d0344391179e46d651da856548de4822))
+
 #### 0.0.3 (2020-06-12)
 
 ##### Bug Fixes
