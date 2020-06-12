@@ -1,3 +1,11 @@
+### 0.1.0 (2020-06-12)
+
+##### New Features
+
+* **rooms:**
+  *  seperate classes from rooms in submodules ([7bf4fb96](https://github.com/lehmuth/gobingo-library/commit/7bf4fb967f7158f73a86bed9ba57ebee8613bcc4))
+  *  Add message definitions ([695e5fbe](https://github.com/lehmuth/gobingo-library/commit/695e5fbe27760cdf18d5f947b4f89a15d9821851))
+
 #### 0.0.7 (2020-06-12)
 
 ##### New Features
