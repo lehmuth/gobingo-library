@@ -1,3 +1,9 @@
+#### 0.0.6 (2020-06-12)
+
+##### Chores
+
+*  chnaged build options ([2e8278c4](https://github.com/lehmuth/gobingo-library/commit/2e8278c4f6de9f4963a2fd5bb6abe272eb5e22c9))
+
 #### 0.0.5 (2020-06-12)
 
 ##### New Features
