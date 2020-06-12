@@ -1,4 +1,4 @@
-export class EntryRoomMetaData {
+export class MetaData {
     constructor(
         public name: string,
     ) {}
